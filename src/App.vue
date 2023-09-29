@@ -8,13 +8,13 @@
 
 <script>
 //import HelloWorld from './components/HelloWorld.vue'
-import HelloWorld   from 'apptwo/HelloWorld'
+//import HelloWorld   from 'apptwo/HelloWorld'
 
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    //HelloWorld
   }
 }
 </script>
